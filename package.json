@@ -1,0 +1,30 @@
+{
+  "name": "flower-bot",
+  "version": "1.0.0",
+  "description": "flower-bot",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/eslint static/scripts/script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilary0612/restaurante-es.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hilary0612/restaurante-esissues"
+  },
+  "homepage": "https://github.com/hilary0612/flower-bot#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.18.2"
+  }
+}
